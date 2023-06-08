@@ -34,7 +34,3 @@
 <br/>
 
 ---
-
-Credit: [Danushka2](https://github.com/Danushka2)
-
-Last edited on: 30/06/2022
